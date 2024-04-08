@@ -1,0 +1,7 @@
+{
+	"name": "Dima",
+    "age": 18,
+    "city": "Moscow",
+	"language":["C#","Python"],
+	"isFullDay":true
+}
